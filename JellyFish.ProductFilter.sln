@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JellyFish.ProductFilter.Api", "JellyFish.ProductFilter.Api\JellyFish.ProductFilter.Api.csproj", "{AD04B5C9-8C8A-4C30-86EA-92E46BD20B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JellyFish.ProductFilter.Tests.Unit", "JellyFish.ProductFilter.Tests.Unit\JellyFish.ProductFilter.Tests.Unit.csproj", "{7C0C43C1-376C-4C5A-B358-FB9A4D5AFA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JellyFish.ProductFilter.Tests.Integration", "JellyFish.ProductFilter.Tests.Integration\JellyFish.ProductFilter.Tests.Integration.csproj", "{F155C1B8-3007-4374-BC83-03413C6F9C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JellyFish.ProductFilter.UI", "JellyFish.ProductFilter.UI\JellyFish.ProductFilter.UI.csproj", "{3D861A10-DF13-4EB5-BAB6-A4E92D16A516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD04B5C9-8C8A-4C30-86EA-92E46BD20B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD04B5C9-8C8A-4C30-86EA-92E46BD20B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD04B5C9-8C8A-4C30-86EA-92E46BD20B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD04B5C9-8C8A-4C30-86EA-92E46BD20B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0C43C1-376C-4C5A-B358-FB9A4D5AFA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0C43C1-376C-4C5A-B358-FB9A4D5AFA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0C43C1-376C-4C5A-B358-FB9A4D5AFA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0C43C1-376C-4C5A-B358-FB9A4D5AFA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F155C1B8-3007-4374-BC83-03413C6F9C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F155C1B8-3007-4374-BC83-03413C6F9C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F155C1B8-3007-4374-BC83-03413C6F9C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F155C1B8-3007-4374-BC83-03413C6F9C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D861A10-DF13-4EB5-BAB6-A4E92D16A516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D861A10-DF13-4EB5-BAB6-A4E92D16A516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D861A10-DF13-4EB5-BAB6-A4E92D16A516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D861A10-DF13-4EB5-BAB6-A4E92D16A516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E58E7B37-9622-41EB-A4AA-FB0943A723C5}
+	EndGlobalSection
+EndGlobal

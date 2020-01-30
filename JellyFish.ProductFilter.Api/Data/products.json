@@ -1,0 +1,34 @@
+{
+   "Products":[
+      {
+         "Name":"Empire Magazine",
+         "Price":2.99,
+         "Description":"Empire magazine is the most popular movie magazine in the world - a true blockbuster title for film fanatics, covering the biggest and best films to grace the big screen. ",
+         "Image":"https://covers.magazinecloner.com/covers/166051/thumb/0000.jpg"
+      },
+      {
+         "Name":"BBC Wildlife Magazine",
+         "Price":4.99,
+         "Description":"BBC Wildlife Magazine brings you a beautiful collection of stunning photography that features some of the most brilliant animals the world has to offer. BBC Wildlife Magazine helps you to experience the true beauty of nature and its wildlife through the sheer quality of its articles and photography.",
+         "Image":"https://covers.magazinecloner.com/covers/167127/thumb/0000.jpg"
+      },
+      {
+         "Name":"Slimming World Magazine",
+         "Price":5.99,
+         "Description":"Slimming World Magazine is UK’s number 1 slimming magazine, where you can find all the latest tips and expert advice on how to successfully shape up your physique and lead a healthier lifestyle. ",
+         "Image":"https://covers.magazinecloner.com/covers/163625/thumb/0000.jpg"
+      },
+      {
+         "Name":"FourFourTwo Magazine",
+         "Price":3.99,
+         "Description":"FourFourTwo is the definitive magazine subscription for devout followers of the beautiful game, covering grassroots action through to world football’s super elite. ",
+         "Image":"https://covers.magazinecloner.com/covers/166795/thumb/0000.jpg"
+      },
+      {
+         "Name":"Hi-Fi Choice Magazine",
+         "Price":6.99,
+         "Description":"Hi-Fi Choice is the essential guide to getting the best possible sound from your hi-fi, whether you're buying, tuning or tweaking... It has a no-nonsense approach to reviewing the finest audio products available, from hi-res streaming and downloads to CD, vinyl and valves.",
+         "Image":"https://covers.magazinecloner.com/covers/166334/thumb/0000.jpg"
+      }
+   ]
+}
